@@ -19,6 +19,6 @@ Fanny Ribard - [@linkedin](https://www.linkedin.com/in/fanny-ribard/) - fanny.ri
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Nodejs-badge]: https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Nodejs-url]: Nodejs.org
+[Nodejs-url]: https://nodejs.org/fr
 [Mongodb-badge]: https://img.shields.io/badge/MongoDB-5FA04E?style=for-the-badge&logo=mongodb&logoColor=white
 [Mongodb-url]: https://www.mongodb.com/
